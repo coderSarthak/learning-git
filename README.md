@@ -14,7 +14,7 @@ This is a demo project for learning how to use Git.
 Some common git commands are
 ``` 
 git status
-git add
+[git add](https://git-scm.com/docs/git-add)
 git commit
 
 ```

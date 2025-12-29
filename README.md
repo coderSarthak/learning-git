@@ -10,3 +10,11 @@ This is a demo project for learning how to use Git.
  <source media="(prefers-color-scheme: light)" srcset="https://tse2.mm.bing.net/th/id/OIP.KUYbVRknuNY2EjNO8PIoHQHaHa?pid=Api&P=0&h=180">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+Some common git commands are
+``` 
+git status
+git add
+git commit
+
+```
